@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=probablyarth" alt="arth" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/arthwashere" target="blank"><img src="https://img.shields.io/twitter/follow/arthwashere?logo=twitter&style=for-the-badge" alt="arthwashere" /></a> </p>
+<p align="center"> <a href="https://twitter.com/probablyarth" target="blank"><img src="https://img.shields.io/twitter/follow/arthwashere?logo=twitter&style=for-the-badge" alt="arthwashere" /></a> </p>
 <a href="https://app.daily.dev/probablyArth"><img src="https://api.daily.dev/devcards/bbe21e1f3d8243bf81b978e4fac04651.png?r=5b5" width="400" alt="Arth Thapa's Dev Card"/></a>
 
 - 🔭 I’m currently working on @TNBCkers and a bunch of other projects.
