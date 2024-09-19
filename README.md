@@ -3,7 +3,7 @@ I learn new skills every now and then & create useful projects using my skills, 
 
 
 - I'm currently based in Bangalore.
-- Currently studying my first year at Scaler School Of Technology.
+- Extremely interested in backend systems and dev tools
 - You can contact me at probablyarth@gmail.com
 - My portfolio - https://probablyarth.vercel.app
 
